@@ -6,7 +6,7 @@
 
 let fullName = 'Danny Kim';
 let currentYear = '2023';
-let profilePicture = 'images/danny.png';
+let profilePicture = 'images/Danny.png';
 
 
 /* Step 3 - Element Variables */
