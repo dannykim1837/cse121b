@@ -20,7 +20,7 @@ const imageElement = document.querySelector('picture img');
 /* Step 4 - Adding Content */
 nameElement.innerHTML = `<strong>${fullName}</strong>`;
 imageElement.setAttribute('src', profilePicture);
-imageElement.setAttribute('alt', `Profile image of ${fullName}`);
+imageElement.setAttribute('alt', `Profile image of ${profilePicture}`);
 
 
 
